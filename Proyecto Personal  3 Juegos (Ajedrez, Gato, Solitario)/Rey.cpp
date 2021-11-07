@@ -8,3 +8,4 @@ void Rey::movimiento(int x, int y) {
 	setX(x);
 	setY(y);
 }
+// me cago en javier
